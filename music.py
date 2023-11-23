@@ -93,7 +93,7 @@ class music(commands.Cog):
         self.music_queue = []
 
     @commands.command()
-    async def pause(self):
+    async def pause(self, ctx):
         if self.is_playing:
             self.is_playing = False
             self.is_paused = True
