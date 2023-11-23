@@ -1,7 +1,7 @@
 # Discord Music Bot
 ## About The Project
-    This project was made when YouTube disabled a music bot my server made. I decide this would be a fun project
-    to learn python.
+    This project was made when YouTube disabled a music bot my server made. I decide this would be a fun 
+    project to learn python.
 ## Getting Started
 ### Prerequisites
     
