@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 import music
+import info
 
 
 def main():
@@ -11,7 +12,7 @@ def main():
     for i in range(len(cogs)):
         cogs[i].setup(client)
 
-    client.run("your Discord server token goes here")
+    client.run(info.botToken)
 
 
 if __name__ == '__main__':
