@@ -136,7 +136,7 @@ class music(commands.Cog):
     async def commands(self, ctx):
         await ctx.send("!play LINK or title - to play a song or just !play to unpause the bot\n"
                        "!pause - to pause the song\n"
-                       "!skip - to skip the current song"
+                       "!skip - to skip the current song\n"
                        "!leave - to make the bot disconnect\n"
                        "!queue - to see the queue\n"
                        "!np - to see now playing\n"
