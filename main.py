@@ -11,7 +11,7 @@ def main():
 
     for i in range(len(cogs)):
         cogs[i].setup(client)
-
+#need to change info.botToken to your discord bot token
     client.run(info.botToken)
 
 

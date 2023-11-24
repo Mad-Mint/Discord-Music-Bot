@@ -22,6 +22,8 @@
 	To install FFMPEG run:
 		pip install FFMPEG
 ### Building
+    In main.py on line 14 change "info.botToken" to your Discord bot Token. More information here: 
+    https://discordpy.readthedocs.io/en/stable/discord.html
 	Once the packages have been installed you can now run the bot.
 ### Usage
 	Here are a list of commands used to control the bot
