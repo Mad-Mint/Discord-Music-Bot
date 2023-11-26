@@ -1,4 +1,5 @@
 # Discord Music Bot
+    This is Version one discord.py and youtube_dl have been update and this bot no longer works.
 ## About This Project
     This project was made when YouTube disabled a music bot my server used. I decided this would be a fun 
     project to learn the basics of Python and asynchronous programming.
