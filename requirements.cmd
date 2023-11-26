@@ -1,4 +1,4 @@
-pip install discord
-pip install pynacl
+pip install --user discord 1.7.3
+pip install --user pynacl 1.4.0
 pip install youtube_dl
-pip install FFMPEG
+pip install --user FFMPEG 1.4
