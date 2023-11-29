@@ -1,5 +1,7 @@
 # Discord Music Bot
-    This is Version one discord.py and ffmpeg have been updated and this bot no longer works on latest versions.
+    This is version one. YouTube has changed the way youtube_dl is able to download videos. This leads
+    to only some videos being downloaded and playable. This reduces the bot's usability, to fix this
+    issue the bot will no longer use youtube_dl.
 ## About This Project
     This project was made when YouTube disabled a music bot my server used. I decided this would be a fun 
     project to learn the basics of Python and asynchronous programming.
@@ -27,7 +29,7 @@
     https://discordpy.readthedocs.io/en/stable/discord.html
 	Once the packages have been installed you can now run the bot.
 ### Usage
-	Here are a list of commands used to control the bot
+	Here is a list of commands used to control the bot
 	!play LINK or title - to play a song or just !play to unpause the bot
     !pause - to pause the song
     !skip - to skip the current song
